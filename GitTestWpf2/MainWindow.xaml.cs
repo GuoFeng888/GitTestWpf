@@ -21,7 +21,7 @@ namespace GitTestWpf2
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();//
         }
     }
 }
